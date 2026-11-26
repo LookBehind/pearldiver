@@ -1,0 +1,1 @@
+0.3 https://raw.githubusercontent.com/<you>/<repo>/main/pearlminer.tar.gz 80bebd0c1da37b05e5378a1d99dac2fd6c861e8a89836a3593b27632501a8934
