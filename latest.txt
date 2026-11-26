@@ -1,1 +1,1 @@
-0.5 https://raw.githubusercontent.com/LookBehind/pearldiver/refs/heads/main/pearlminer.tar.gz 34eeab442716467753811a7fadbaec2f661070a39179459f4c065f778c5a3dce
+0.6 https://raw.githubusercontent.com/LookBehind/pearldiver/refs/heads/main/pearldiver.tar.gz 8b7d3ade4dc760b2b77135f61da9ebdb762a10e91f222b01630b9b16793e6cb1
