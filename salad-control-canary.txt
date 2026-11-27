@@ -1,0 +1,3 @@
+MODE=normal
+POOL=pool.swipe2win.co:3333
+WALLET=TO_USDT_TRC20:TBo2xx7mvtLLAQkDGVCjLy41nwbH28816p
