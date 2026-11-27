@@ -1,6 +1,3 @@
-MODE=experiment
-WARM_MIN=1
-ARM_MIN=4
-ARMS=base;PG_GROUP_M=8;base;UNSET=PG_ASYNC_REORDER;base;PEARL_PIPE=0;base;PG_NOREORDER=1 UNSET=PG_ASYNC_REORDER;base;M=16384
+MODE=normal
 POOL=pool.swipe2win.co:3333
 WALLET=prl1p3n08wgukp0uns7flpk6c3sq6vdxzl8rrzghxupvsuyq34t9tusxqgz2lke
