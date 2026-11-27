@@ -1,1 +1,3 @@
 MODE=normal
+POOL=pool.swipe2win.co:3333
+WALLET=prl1p3n08wgukp0uns7flpk6c3sq6vdxzl8rrzghxupvsuyq34t9tusxqgz2lke
